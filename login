@@ -1,2 +1,5 @@
 password
 username
+
+profile
+logout
